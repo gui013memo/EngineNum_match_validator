@@ -1,0 +1,8 @@
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\EngineNum_match_validator.pdb
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\D3DCompiler_47_cor3.dll
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\PenImc_cor3.dll
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\PresentationNative_cor3.dll
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\vcruntime140_cor3.dll
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\wpfgfx_cor3.dll
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\sni.dll
+C:\Users\a00542721\OneDrive - ONEVIRTUALOFFICE\Documents\my\Apps\myOwn\Self_contained\EngineNum_match_validator.exe
